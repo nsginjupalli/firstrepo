@@ -11,3 +11,6 @@ This is Navya Sahithi , student of NorthWest Missouri state University.
 ```
 
 Web Applications
+Today
+
+**Today is a beautiful day**
